@@ -1,0 +1,10 @@
+Podfile.lock
+Pods
+Pods/*
+TheMovies.xcworkspace/xcuserdata/*
+TheMovies.xcodeproj/xcuserdata/*
+TheMovies.xcworkspace/xcshareddata/*
+TheMovies.xcodeproj/project.xcworkspace/xcuserdata/*
+IDEWorkspaceChecks.plist
+
+contents.xcworkspacedata
