@@ -4,12 +4,17 @@ Una app que lista peliculas de la página https://www.themoviedb.org/
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- List upcoming movies
+- List top rate as recommed section
+- List trending movie last week
+- Detail movie information
+- Movie trailers from YouTube
+- Implemennted offile feature
 
 ## Pending Improvements
+
+- Filtros por años e idioma en la secion de sugeridos.
+- 
 
 ## FAQ
 
