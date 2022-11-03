@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  TheMovies
+
+  Created by Sergio Maturano on 01/11/2022.
+  
+*/
+
+"title.app" = "eMovie";
+"loading" = "Cargando";
+
+"trend" = "Tendencia";
+"upcoming" = "Próximos estrenos";
+"top" = "Recomendados para ti";
+
+
+// Errors
+"api.error.connection" = "Error de conexión. Por favor verifique su conexión a internet e intente nuevamente.";
+"api.error.login" = "El usuario y/o contraseña son inválidos. Intente nuevamente.";
+"api.error.authentication" = "Error de autenticación, intente de nuevo por favor.";
+"api.error.forgot" = "El email ingresado no pertenece a un usuario válido.";
+
+// Alert
+"alert.warning" = "Aviso";
+"alert.cancel" = "Cancelar";
+"alert.accept" = "Aceptar";
+"alert.title.app" = "eMovie";
+
+
